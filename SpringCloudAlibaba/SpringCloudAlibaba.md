@@ -1,6 +1,6 @@
 
 
-## 1.SpringCloudAlibaba简介
+## 1.SpringCloudAlibaba
 
 ### 1.1.为什么会出现SpringCloudAlibaba？
 
